@@ -1,0 +1,2 @@
+Your lips are smoother than vaseline!
+Step 1: Create 16 subkeys, each of which is 48-bits long.
